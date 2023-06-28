@@ -5,8 +5,8 @@
 /* *
      *main - Entry point
      *Description: "Check for number if positive or negative"
-      *Return: always 0
-       */
+     *Return: always 0
+     */
 int main(void)
 {
         int n;
