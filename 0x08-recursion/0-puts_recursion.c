@@ -1,20 +1,2 @@
-#include "main.h"
-/**
- * _puts_recursion - recursive function to print to screen
- *
- * @s: pointer to the string
- *
- * Return: nothing
- */
-void _puts_recursion(char *s)
-{
-	if (*s != '\0')
-	{
-		_putchar(*s);
-		_puts_recursion(s + 1);
-	}
-	if (*s == '\0')
-	{
-		_putchar('\n');
-	}
-}
+VimCrypt~03!¦j't•ïº€y)îlt+Ö•êH“B/i¤ÙmïßÁÿ1	´)9|ÖHC°aO9&nOéìØŞŠQ[BâWÿ”mXÙv‘/,‡Ò¡õ³MÅÅÿ¶ğc+¿÷–Nöâ—~<0Le,×iœ´²¤Eé­»Á6íUX]NÌÙÂÙÓÃ‘å³HkvØk]úíFúÿv ªîL‹}¯sGk¤Ø2<V¹òé¦Uq(à²)
+9B5ÍÒ™®„_JfZW*8¨—=ä`·Ğ¨ÑAùOÈ‚²ëµÙm"ºŠËbX¢İN©ìz
